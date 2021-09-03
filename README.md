@@ -1,3 +1,9 @@
+React app that lets users interact with Github's public API
+
+https://github-react-app-b1ab9.firebaseapp.com/ <---- Access app here
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
