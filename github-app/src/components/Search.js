@@ -75,7 +75,7 @@ const reducer = (state, action) => {
 }
 
 
-function Search() {
+const Search = () => {
 
     const [state, dispatch] = useReducer(reducer, initialState)
     
