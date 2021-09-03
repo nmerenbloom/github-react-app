@@ -10,7 +10,7 @@ function App() {
       <Search/>
       <footer className='footer sticky-bottom'>
         <div className='container'>
-          <span>Footer. Hi Jay. -Noah. 7/27/2021</span>
+          <span>Footer. -Noah. 7/27/2021</span>
         </div>
       </footer>
     </div>
